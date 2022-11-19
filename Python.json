@@ -1,0 +1,19 @@
+{
+    "rng":"range($)",
+    "prt":"print($)",
+    "apd":".append($)",
+    "ln":"len($)",
+    "i-":"def __init__(self, $)",
+    "it":"int($)",
+    "lst":"list($)",
+    "inp":"input($)",
+    "ary":"np.array($)",
+    "shw":"plt.show($)",
+    "mx":"max($)",
+    "mn":"min($)",
+    "fr":"for q in range($):",
+    "df":"def $():",
+    "whl":"while $:",
+    "lbd":" = lambda $:",
+    "imp":"import "
+}
